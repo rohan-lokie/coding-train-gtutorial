@@ -1,2 +1,2 @@
 # coding-train-gtutorial
-Repo for learning git
+Repo for learning git (noob to chad)
